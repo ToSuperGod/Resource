@@ -1,10 +1,10 @@
 个人信息
 --
-史子龙/男/1999  
-手机：15802444176  
-本科/沈阳工业大学计算机科学与技术系/2017.09~2021.07   
-Github：https://github.com/ToSuperGod  
-Email:szlwork@outlook.com    
+*史子龙/男/1999  
+*手机：15802444176   
+*本科/沈阳工业大学计算机科学与技术系/2017.09~2021.07   
+*Github：https://github.com/ToSuperGod  
+*Email:szlwork@outlook.com    
 微信：work2085     
 QQ:1537770987 
 期望职位:Python后端工程师  
