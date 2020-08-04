@@ -6,7 +6,7 @@
 + Email:<szlwork@outlook.com>    
 + 微信：work2085     
 + QQ:1537770987 
-+ 期望职位:Python后端工程师  
++ 期望职位:暂求推荐  
 ---
 # 技能清单
 + 语言：Python / js / C++ / C / java  
