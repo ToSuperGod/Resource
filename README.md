@@ -1,20 +1,24 @@
-联系方式
---
-手机：15802444176  
-Email:szlwork@outlook.com  
-QQ:1537770987  
- 
 个人信息
 --
 史子龙/男/1999  
-本科/沈阳工业大学计算机科学与技术系  
+手机：15802444176  
+本科/沈阳工业大学计算机科学与技术系/2017.09~2021.07   
 Github：https://github.com/ToSuperGod  
-期望职位：  
+Email:szlwork@outlook.com    
+微信：work2085     
+QQ:1537770987 
+期望职位:Python后端工程师  
 
 技能清单
 -- 
-了解QT开发 微信小程序开发 python爬虫  PaddlePaddle  linux系统  C  C++  java  前端语言  
-数据库相关：MySQL
+语言：Python/js/C++/C/java  
+后端：   
+前端：HTML5/CSS/QT  
+数据库：MySQL/SQLSever  
+深度学习框架：PaddlePaddle
+其他：爬虫/微信小程序/OOP/Linux
+证书：新型实用形专利/CAD高级   
+每天
 
 主要项目
 --
