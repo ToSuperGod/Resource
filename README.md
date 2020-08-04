@@ -1,7 +1,7 @@
 个人信息
 --
-*史子龙/男/1999  
-*手机：15802444176   
++史子龙/男/1999  
++手机：15802444176   
 *本科/沈阳工业大学计算机科学与技术系/2017.09~2021.07   
 *Github：https://github.com/ToSuperGod  
 *Email:szlwork@outlook.com    
@@ -11,14 +11,14 @@ QQ:1537770987
 
 技能清单
 -- 
-语言：Python/js/C++/C/java  
-后端：   
+*语言：Python/js/C++/C/java  
 前端：HTML5/CSS/QT  
 数据库：MySQL/SQLSever  
-深度学习框架：PaddlePaddle
-其他：爬虫/微信小程序/OOP/Linux
+*深度学习框架：PaddlePaddle*
+版本管理：git  
+-其他：爬虫/微信小程序/OOP/Linux
 证书：新型实用形专利/CAD高级   
-每天
+坚持每日练习提高
 
 主要项目
 --
