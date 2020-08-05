@@ -15,9 +15,7 @@
 + 深度学习：深度学习基础 / 图像分类  
 + 深度学习框架：PaddlePaddle
 + 版本管理：git  
-+ 其他：爬虫 / 计算机视觉 / 微信小程序 / OOP / Linux
-+ 证书：新型实用型专利 / CAD高级   
-+ 坚持每日练习提高
++ 其他：爬虫 / 计算机视觉 / 微信小程序 / OOP / Linux  
 ---
 # 主要项目
 + 2020.01-2020.02 [自动寻址系统](https://github.com/ToSuperGod/Resource/edit/master/README.md)   
