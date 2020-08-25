@@ -9,16 +9,16 @@
 + 期望职位:机器学习算法工程师  
 ---
 # 技能清单
-+ 语言：Python / js / C++ / C / java  
++ 语言：Python / js / C++ / C    
 + 前端：HTML5 / CSS / QT  
-+ 数据库：MySQL / SQLSever 
++ 数据库：MySQL / SQLSever / redis   
 + 深度学习：深度学习基础 / 图像分类  
 + 深度学习框架：PaddlePaddle
 + 版本管理：git  
 + 其他：爬虫 / 计算机视觉 / 微信小程序 / OOP / Linux  
 ---
 # 主要项目
-+ 2020.01-2020.02 [自动寻址系统](https://github.com/ToSuperGod/Resource/edit/master/README.md)   
++ 2020.01-2020.02 [自动寻址系统](https://github.com/ToSuperGod/Passion/tree/master/Qt_find_three)   
 > **S** 建筑工程师在寻找合适的建立车库位置要耗费大量的精力。   
 > **T** 根据城市地图与地图各点的人流量车流量，选择合适的建立车库位置。   
 > **A** 使用墨刀设计软件原型，利用C++搭载OpenCV实现对图片像素点的操作，并给出提示符标记各点位。使用QT实现PC端界面保证软件可跨平台性。     
@@ -30,13 +30,13 @@
 > **A** 转换图像色彩空间为YCbCr，进行肤色似然处理后实现复杂背景下感兴趣区域提取。  
 > **R** 此项目已成功通过大创中期检查。  
 
-+ 2020.05-2020.06 [图像分类系统](https://github.com/ToSuperGod/Resource/edit/master/README.md)
++ 2020.05-2020.06 [图像分类系统](https://github.com/ToSuperGod/Passion/tree/Paddled)
 > **S** 人工智能成为当下热点，深度学习是一项必要技能。   
 > **T** 独立学习机器学习与深度学习相关知识。   
 > **A** 使用PaddlePaddle框架编写简单卷积神经网络并在云端进行猫狗图像分类训练，保存训练结果，在本地进行预测。利用AlxNet、VGG、GoogleNet、ResNet经典图像分类模型对眼疾图片进行分类，并对比各模型效果。     
 > **R** 眼疾图片分类准确率达到91.02%，并得到导师的认可。   
 
-+ 2020.6-2020.7 [微信小程序——百词斩](https://github.com/ToSuperGod/Resource/edit/master/README.md)
++ 2020.6-2020.7 [微信小程序——百词斩](https://github.com/ToSuperGod/Passion/tree/weChat)
 > **S** 一些同学厌倦英语学习，也厌倦了拿着书本去背单词。   
 > **T** 学习微信小程序开发，并主要负责前端开发。   
 > **A** 引用阿里矢量图标使界面更加美观简洁，布局采用百分比方式让小程序界面适合多种机型。   
