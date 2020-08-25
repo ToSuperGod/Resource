@@ -6,7 +6,7 @@
 + Email:<szlwork@outlook.com>    
 + 微信：work2085     
 + QQ:1537770987 
-+ 期望职位:机器学习算法工程师  
++ 期望职位:Pyhton后端开发工程师  
 ---
 # 技能清单
 + 语言：Python / js / C++ / C    
