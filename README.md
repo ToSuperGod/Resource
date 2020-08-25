@@ -11,7 +11,7 @@
 # 技能清单
 + 语言：Python / js / C++ / C    
 + 前端：HTML5 / CSS / QT  
-+ 数据库：MySQL / SQLSever / redis   
++ 数据库：MySQL / SQLSever / Redis   
 + 深度学习：深度学习基础 / 图像分类  
 + 深度学习框架：PaddlePaddle
 + 版本管理：git  
