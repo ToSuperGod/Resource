@@ -9,13 +9,13 @@
 + 期望职位:算法工程师  
 ---
 # 技能清单
-+ 语言：Python / js / C++ / C    
++ 语言：Python(PEP8编码规范) / js / C++ / C    
 + 前端：HTML5 / CSS / QT  
 + 数据库：MySQL / SQLSever / Redis   
-+ 深度学习：深度学习基础 / 图像分类  
++ 机器学习：深度学习基础 / RNN / SVM    
 + 深度学习框架：PaddlePaddle
 + 版本管理：git  
-+ 其他：爬虫 / 计算机视觉 / 微信小程序 / OOP / Linux  
++ 其他：爬虫 / 计算机视觉 / 微信小程序 / OOP / Linux / 多线程    
 ---
 # 主要项目
 + 2020.01-2020.02 [自动寻址系统](https://github.com/ToSuperGod/Passion/tree/master/Qt_find_three)   
