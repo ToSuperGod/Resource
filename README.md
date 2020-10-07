@@ -9,14 +9,16 @@
 + 期望职位:算法工程师  
 ---
 # 技能清单
-+ 语言：Python(PEP8编码规范) / js / C++ / C    
-+ 机器学习：深度学习基础 / RNN / SVM / K-means    
++ 语言：Python(PEP8编码规范) / js / C / C++    
++ 前端：HTML5 / CSS / QT  
++ web开发框架：Flask
++ 数据库：MySQL / SQLSever / Redis 
++ OS：linux / Windows 
++ 机器学习：深度学习基础 / CNN / SVM / K-means    
 + 深度学习框架：PaddlePaddle  
 + 计算机视觉：OpenCV / 图像分类   
-+ 前端：HTML5 / CSS / QT  
-+ 数据库：MySQL / SQLSever / Redis   
 + 版本管理：git  
-+ 其他：爬虫 / 微信小程序 / OOP / Linux / 多线程    
++ 其他：爬虫 / 微信小程序 / OOP / 多线程 / 网络编程   
 ---
 # 主要项目
 
