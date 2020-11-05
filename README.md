@@ -6,7 +6,7 @@
 + Email:<szlwork@outlook.com>    
 + 微信：work2085     
 + QQ:1537770987 
-+ 期望职位:算法工程师  
++ 期望职位:后端开发工程师  
 ---
 # 技能清单
 + 语言：Python(PEP8编码规范) / js / C / C++    
