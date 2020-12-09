@@ -12,7 +12,7 @@
 + 语言：Python(PEP8编码规范) / js / C / C++    
 + 前端：HTML5 / CSS / QT  
 + web开发框架：Flask
-+ 数据库：MySQL / SQLSever / Redis 
++ 数据库：MySQL / SQLSever / Redis / MongoDB  
 + OS：linux / Windows 
 + 机器学习：深度学习基础 / CNN / SVM / K-means    
 + 深度学习框架：PaddlePaddle  
