@@ -9,11 +9,12 @@
 + 期望职位:后端开发工程师  
 ---
 # 技能清单
-+ 语言：Python(PEP8编码规范) / js / C / C++    
++ 语言：Python(PEP8编码规范) / Go / shell / js / C / C++    
 + 前端：HTML5 / CSS / QT  
-+ web开发框架：Flask
-+ 数据库：MySQL / SQLSever / Redis / MongoDB  
-+ OS：linux / Windows 
++ web开发框架：Flask / Django  
++ 数据库：MySQL / SQLSever / Redis / MongoDB / openGass  
++ 中间件： Kafka / Celery    
++ 云原生： Kubernetes / cluster-api / kubebuilder    
 + 机器学习：深度学习基础 / CNN / SVM / K-means    
 + 深度学习框架：PaddlePaddle  
 + 计算机视觉：OpenCV / 图像分类   
